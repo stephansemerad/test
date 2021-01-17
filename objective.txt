@@ -1,0 +1,9 @@
+# Create a database structure
+
+# 1- User logs in
+# User Uploads a file 
+# File is displayed for User
+# User creates album
+# User updates file to be assigned to album
+# User downloads file
+
